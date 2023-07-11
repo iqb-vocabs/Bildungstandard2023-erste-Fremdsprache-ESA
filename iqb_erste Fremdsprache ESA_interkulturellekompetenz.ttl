@@ -1,0 +1,64 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/45f85adf-8b5e-4f92-9ce9-52c67b88009e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:notation "4" ;
+    skos:prefLabel "erkennen (als kulturelle Mittler), wenn Personen anderer Meinung sind oder wenn Schwierigkeiten in der Interaktion auftreten, indem sie den Sachverhalt in einigen Worten erklären, um einen Kompromiss oder eine Einigung zu erzielen. Mitunter benötigen sie dabei Hinweise und Unterstützung."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
+
+<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/8a1061ad-f533-46fa-aecc-7ad8fb71f58f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:notation "3" ;
+    skos:prefLabel "sich in einfachen Worten an interkulturellem Austausch beteiligen, um Erklärungen von Dingen oder Aussagen bitten und dabei das eigene Repertoire einsetzen, um Zustimmung, Einladung, Dank usw. auszudrücken."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
+
+<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/9e5c957e-d790-4e7d-b7af-b500807b2b25> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:notation "2" ;
+    skos:prefLabel "grundlegende kulturelle Konventionen erkennen und praktizieren, die mit sozialen Handlungen im Alltag verbunden sind (z. B. verschiedene Gruß-Ritualen)."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
+
+<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/a4390bf5-0dac-48a4-a34c-b79b50ffa50e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:notation "6" ;
+    skos:prefLabel "ihre zur Verfügung stehende interkulturelle Bewusstheit in Alltagskontexten reflektieren, um mit einer unerwarteten Situation umgehen zu können. Mitunter benötigen sie dabei Hinweise und Unterstützung."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
+
+<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/acacab18-38d7-46d7-940b-845c133f54d2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:notation "5" ;
+    skos:prefLabel "die in einer Sprache/in anderen Sprachen verfügbaren Kenntnisse, Fertigkeiten und erlernten Strategien für Sprachhandlungen in interkulturellen (Alltags-)Situationen nutzen. Mitunter benötigen sie dabei Hinweise und Unterstützung."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
+
+<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/f3b2993c-e2e1-4d75-b975-c40bcd862220> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:notation "1" ;
+    skos:prefLabel "sich der Vielfalt der Sitten und Gebräuche, der Einstellungen, Werte und Überzeugungen verschiedener gesellschaftlicher (einschließlich der eigenen) Gruppen bewusst, achten auf entsprechende Signale und können sich am interkulturellen Aus tausch beteiligen."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
+
+<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:description ""@de,
+        "Interkulturelle Kompetenz umfasst soziokulturelles und soziolinguistisches Wissen, Einstellungen und Empathiefähigkeit sowie kommunikatives Können. Interkulturelle Kompetenz ist primär auf die Handlungsfähigkeit (savoir-faire) ausgerichtet. Sie zeigt sich in der Fähigkeit und Bereitschaft, in direkten und medial vermittelten Begegnungen kommunikativ und kulturell angemessen zu handeln sowie beim Verstehen, Deuten und Produzieren fremdsprachiger Texte. Interkulturelle Kompetenz impliziert die Fähigkeit und Bereitschaft, unterschiedlich kulturell geprägte Perspektiven wahrzunehmen und über diese zu reflektieren – im Sinne von kultureller Bewusstheit (cultural awareness). Von zentraler Bedeutung für die interkulturelle Kompetenz ist auch die Bereitschaft, als kultureller Mittler zu handeln. Dabei berücksichtigt interkulturelle Kompetenz die sprachliche und kulturelle Heterogenität von Gesellschaft und damit auch von Schulgemeinschaft. Die sprachspezifische Ausprägung der interkulturellen Kompetenz ist u.a. abhängig von den jeweils erreichten rezeptiven, produktiven, interaktiven und mittelnden Kompetenzniveaus. Je nach individueller Sprachbiographie können die Schülerinnen und Schüler auf weitere kulturelle und sprachliche Ressourcen zurückgreifen und diese in interkulturellen Situationen adressaten-, situations- und zweckangemessen nutzen."@de ;
+    dct:title "erste Fremdsprache ESA_Interkulturelle Kompetenz"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/45f85adf-8b5e-4f92-9ce9-52c67b88009e>,
+        <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/8a1061ad-f533-46fa-aecc-7ad8fb71f58f>,
+        <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/9e5c957e-d790-4e7d-b7af-b500807b2b25>,
+        <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/a4390bf5-0dac-48a4-a34c-b79b50ffa50e>,
+        <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/acacab18-38d7-46d7-940b-845c133f54d2>,
+        <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/f3b2993c-e2e1-4d75-b975-c40bcd862220> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/45f85adf-8b5e-4f92-9ce9-52c67b88009e>,
+        <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/8a1061ad-f533-46fa-aecc-7ad8fb71f58f>,
+        <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/9e5c957e-d790-4e7d-b7af-b500807b2b25>,
+        <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/a4390bf5-0dac-48a4-a34c-b79b50ffa50e>,
+        <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/acacab18-38d7-46d7-940b-845c133f54d2>,
+        <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/f3b2993c-e2e1-4d75-b975-c40bcd862220> ;
+    skos:prefLabel "Interkulturelle Kompetenz"@de .
+
