@@ -1,43 +1,43 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/0c3d3163-2e2c-48ba-8970-83d3e27582af> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/a56b4d72-0c42-40e8-857b-29f45bab6077> ;
+<https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/63160108-10d1-4d2c-b280-0df13358aad8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/e8ced241-78c0-4e43-a07d-772fabcebde2> ;
     skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/> ;
     skos:notation "1.5" ;
     skos:prefLabel "die meisten Wörter aus ihrem Wortschatz korrekt oder zumindest \"phonetisch\" im Wesentlichen akkurat schriftlich wiedergeben."@de .
 
-<https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/3fdf6096-3923-430f-b930-42bb269be0a0> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/a56b4d72-0c42-40e8-857b-29f45bab6077> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/> ;
-    skos:notation "1.2" ;
-    skos:prefLabel "mit kurzen gebräuchlichen Ausdrücken einfache und konkrete Bedürfnisse erfüllen und sich in einfachen Grundsituationen verständigen."@de .
-
-<https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/5290ce20-21a9-4972-9698-af268311bb74> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/a56b4d72-0c42-40e8-857b-29f45bab6077> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/> ;
-    skos:notation "1.3" ;
-    skos:prefLabel "einfache, gut memorierte Wendungen durch den Austausch einzelner Elemente an andere Situationen und Sachverhalte anpassen."@de .
-
-<https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/536af14b-af6c-4205-b36b-8228121f15d0> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/a56b4d72-0c42-40e8-857b-29f45bab6077> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/> ;
-    skos:notation "1.6" ;
-    skos:prefLabel "einfache, ihnen vertraute bzw. in der Nutzung intuitiv zugängliche (digitale) Hilfsmittel situations- und zweckangemessen zur Sicherstellung weitgehender orthographischer Korrektheit nutzen. Mitunter benötigen sie dabei Hinweise und Unterstützung."@de .
-
-<https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/7fd8c182-e02f-4917-89e4-c916da4fc4f4> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/a56b4d72-0c42-40e8-857b-29f45bab6077> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/> ;
-    skos:notation "1.4" ;
-    skos:prefLabel "einige einfache Strukturen so korrekt verwenden, dass in der Regel deutlich wird, was ausgedrückt werden soll, obwohl sie noch systematisch elementare Fehler machen (z. B. Vermischung von Zeitformen, unzureichend markierte Subjekt-Verb-Kongruenz)."@de .
-
-<https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/d85efff1-1e8a-479d-bd5c-03f8adfa3da8> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/a56b4d72-0c42-40e8-857b-29f45bab6077> ;
+<https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/923389ca-e983-4525-9196-daba93001c5f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/e8ced241-78c0-4e43-a07d-772fabcebde2> ;
     skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/> ;
     skos:notation "1.1" ;
     skos:prefLabel "mit Hilfe von einfachen Satzmustern sowie einfachen, gut memorierten Wendungen, kurzen Wortgruppen und Redeformeln in vertrauten Situationen und in Bezug auf vertraute Themen routinemäßige, alltägliche Angelegenheiten erledigen und elementaren Kommunikationsbedürfnissen gerecht werden."@de .
 
-<https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/df429cb3-1f53-4771-94e1-ba56e6c199b3> a skos:Concept ;
+<https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/a31ccca6-da71-41bc-a6c7-c50c8f8ad981> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/e8ced241-78c0-4e43-a07d-772fabcebde2> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/> ;
+    skos:notation "1.4" ;
+    skos:prefLabel "einige einfache Strukturen so korrekt verwenden, dass in der Regel deutlich wird, was ausgedrückt werden soll, obwohl sie noch systematisch elementare Fehler machen (z. B. Vermischung von Zeitformen, unzureichend markierte Subjekt-Verb-Kongruenz)."@de .
+
+<https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/c86ef579-eb50-4e32-9499-87de422ddcc4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/e8ced241-78c0-4e43-a07d-772fabcebde2> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/> ;
+    skos:notation "1.3" ;
+    skos:prefLabel "einfache, gut memorierte Wendungen durch den Austausch einzelner Elemente an andere Situationen und Sachverhalte anpassen."@de .
+
+<https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/c925bbad-ca0a-406d-88f6-4c724e08cba0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/e8ced241-78c0-4e43-a07d-772fabcebde2> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/> ;
+    skos:notation "1.6" ;
+    skos:prefLabel "einfache, ihnen vertraute bzw. in der Nutzung intuitiv zugängliche (digitale) Hilfsmittel situations- und zweckangemessen zur Sicherstellung weitgehender orthographischer Korrektheit nutzen. Mitunter benötigen sie dabei Hinweise und Unterstützung."@de .
+
+<https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/d58cd35e-f03a-429e-9707-50b02aad23dc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/e8ced241-78c0-4e43-a07d-772fabcebde2> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/> ;
+    skos:notation "1.2" ;
+    skos:prefLabel "mit kurzen gebräuchlichen Ausdrücken einfache und konkrete Bedürfnisse erfüllen und sich in einfachen Grundsituationen verständigen."@de .
+
+<https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/3b35bebf-c41a-40f0-871a-0c5e2d5b760f> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/> ;
     skos:definition "Die Aussprache der Schülerinnen und Schüler ist im Allgemeinen klar genug um verstanden zu werden, wenn sie in einfachen Alltagssituationen kommunizieren und sofern sich die Gesprächspartnerinnen und Gesprächspartner bemühen zu verstehen, indem sie z. B. um Wiederholungen bitten oder den Einfluss des sprachlichen Hintergrunds der Schülerinnen und Schüler erkennen und sich darauf einstellen."@de ;
     skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/> ;
@@ -45,28 +45,27 @@
     skos:prefLabel "Aussprache und Prosodie"@de ;
     skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/> .
 
-<https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/a56b4d72-0c42-40e8-857b-29f45bab6077> a skos:Concept ;
+<https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/e8ced241-78c0-4e43-a07d-772fabcebde2> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/> ;
     skos:definition "Die Schülerinnen und Schüler verfügen über ein Repertoire an elementaren sprachlichen Mitteln, mit denen sie vertraute Situationen mit vorhersagbaren Inhalten bewältigen können."@de ;
     skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/> ;
-    skos:narrower <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/0c3d3163-2e2c-48ba-8970-83d3e27582af>,
-        <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/3fdf6096-3923-430f-b930-42bb269be0a0>,
-        <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/5290ce20-21a9-4972-9698-af268311bb74>,
-        <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/536af14b-af6c-4205-b36b-8228121f15d0>,
-        <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/7fd8c182-e02f-4917-89e4-c916da4fc4f4>,
-        <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/d85efff1-1e8a-479d-bd5c-03f8adfa3da8> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/63160108-10d1-4d2c-b280-0df13358aad8>,
+        <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/923389ca-e983-4525-9196-daba93001c5f>,
+        <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/a31ccca6-da71-41bc-a6c7-c50c8f8ad981>,
+        <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/c86ef579-eb50-4e32-9499-87de422ddcc4>,
+        <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/c925bbad-ca0a-406d-88f6-4c724e08cba0>,
+        <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/d58cd35e-f03a-429e-9707-50b02aad23dc> ;
     skos:notation "1" ;
     skos:prefLabel "Lexiko-Grammatik"@de ;
     skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/> .
 
 <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description ""@de,
-        "Die sprachlichen Mittel – Wortschatz, Grammatik, Aussprache, Prosodie und Orthographie – sind Kompetenz bildende, funktionale Bestandteile des sprachlichen Systems und der Kommunikation. In der Vermittlung und bei der Aneignung der funktionalen kommunikativen Kompetenz haben die sprachlichen Mittel allerdings grundsätzlich dienende Funktion, da die gelingende Kommunikation im Vordergrund steht. Die kommunikativen Ziele können – u.a. abhängig vom erreichten Kompetenzniveau und der Kooperationsbereitschaft der Kommunikationspartnerinnen und -partner – mit unterschiedlichen sprachlichen Mitteln erreicht werden. Bei der Auswahl der zu vermittelnden sprachlichen Mittel sollte daher von einer kommunikativen Progression ausgegangen werden, während die sprachstrukturelle Progression eine nachgeordnete, dienende Funktion hat. Die Vermittlung und die Aneignung von Wortschatz im Sinne komplexer lexiko-grammatischer Einheiten sind mit Blick auf die funktionale kommunikative Kompetenz zentral."@de ;
+    dct:description "Die sprachlichen Mittel – Wortschatz, Grammatik, Aussprache, Prosodie und Orthographie – sind Kompetenz bildende, funktionale Bestandteile des sprachlichen Systems und der Kommunikation. In der Vermittlung und bei der Aneignung der funktionalen kommunikativen Kompetenz haben die sprachlichen Mittel allerdings grundsätzlich dienende Funktion, da die gelingende Kommunikation im Vordergrund steht. Die kommunikativen Ziele können – u.a. abhängig vom erreichten Kompetenzniveau und der Kooperationsbereitschaft der Kommunikationspartnerinnen und -partner – mit unterschiedlichen sprachlichen Mitteln erreicht werden. Bei der Auswahl der zu vermittelnden sprachlichen Mittel sollte daher von einer kommunikativen Progression ausgegangen werden, während die sprachstrukturelle Progression eine nachgeordnete, dienende Funktion hat. Die Vermittlung und die Aneignung von Wortschatz im Sinne komplexer lexiko-grammatischer Einheiten sind mit Blick auf die funktionale kommunikative Kompetenz zentral."@de ;
     dct:title "erste Fremdsprache ESA_Verfügen über sprachliche Mittel"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/a56b4d72-0c42-40e8-857b-29f45bab6077>,
-        <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/df429cb3-1f53-4771-94e1-ba56e6c199b3> ;
-    skos:narrower <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/a56b4d72-0c42-40e8-857b-29f45bab6077>,
-        <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/df429cb3-1f53-4771-94e1-ba56e6c199b3> ;
+    skos:hasTopConcept <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/3b35bebf-c41a-40f0-871a-0c5e2d5b760f>,
+        <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/e8ced241-78c0-4e43-a07d-772fabcebde2> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/3b35bebf-c41a-40f0-871a-0c5e2d5b760f>,
+        <https://w3id.org/iqb/bista23FrESA/verfuegenuebersprachlichemittel/e8ced241-78c0-4e43-a07d-772fabcebde2> ;
     skos:prefLabel "Verfügen über sprachliche Mittel"@de .
 
